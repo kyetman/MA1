@@ -21,3 +21,17 @@ ul.nav a:hover {
 .active {
     background-color: antiquewhite;
 }
+h1 {
+    text-align: center;
+}
+body {
+    font-family: 'Lucida Sans';
+}
+img {
+    width: 900px;
+}
+.index {
+    font-weight: bolder;
+    font-size:larger; 
+    text-align:center;
+}
